@@ -1,1 +1,21 @@
-Index.handlebars
+<!--
+<div class="container">
+    <h2>Kanto · 1st Generation</h2>
+</div>
+-->
+
+<div id="list-pokemon" class="list-pokemon text-center">
+    {{#each pokemon}}
+        <div class="item-pokemon">
+            <a class="link-pokemon" href="/{{number}}"> </a>
+            <img src="content/img/pokemon/{{number}}.png" />
+            <p class="pokemon-number">#{{number}}</p>
+            <p class="pokemon-name">{{name}}</p>
+            <p class="pokemon-type">
+                {{#each type}}
+                    <span class="{{this}}">{{this}}</span>
+                {{/each}}
+            </p>
+        </div>
+    {{/each}}
+</div>

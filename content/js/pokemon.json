@@ -1,0 +1,162 @@
+[
+    {
+        number: "001",
+        name: "bulbasaur",
+        type: [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        number: "002",
+        name: "ivysaur",
+        type: [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        number: "003",
+        name: "venossaur",
+        type: [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        number: "004",
+        name: "charmander",
+        type: [
+            "fire"
+        ]
+    },
+    {
+        number: "005",
+        name: "charmeleon",
+        type: [
+            "fire"
+        ]
+    },
+    {
+        number: "006",
+        name: "charizard",
+        type: [
+            "fire",
+            "flying"
+        ]
+    },
+    {
+        number: "007",
+        name: "squirtle",
+        type: [
+            "water"
+        ]
+    },
+    {
+        number: "008",
+        name: "wartortle",
+        type: [
+            "water"
+        ]
+    },
+    {
+        number: "009",
+        name: "blastoise",
+        type: [
+            "water"
+        ]
+    },
+    {
+        number: "010",
+        name: "caterpie",
+        type: [
+            "bug"
+        ]
+    },
+    {
+        number: "011",
+        name: "metapod",
+        type: [
+            "bug"
+        ]
+    },
+    {
+        number: "012",
+        name: "butterfree",
+        type: [
+            "bug",
+            "flying"
+        ]
+    },
+    {
+        number: "013",
+        name: "weedle",
+        type: [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        number: "014",
+        name: "kakuna",
+        type: [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        number: "015",
+        name: "beedrill",
+        type: [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        number: "016",
+        name: "pidgey",
+        type: [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        number: "017",
+        name: "pigdeotto",
+        type: [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        number: "018",
+        name: pidgeot,
+        type: [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        number: "019",
+        name: "rattata",
+        type: [
+            "normal"
+        ]
+    },
+    {
+        number: "020",
+        name: "raticate",
+        type: [
+            "normal"
+        ]
+    },
+    {
+        number: "021",
+        name: "spearow",
+        type: [
+            "normal",
+            "flying"
+        ]
+    }
+
+]
